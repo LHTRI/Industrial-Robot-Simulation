@@ -5,7 +5,7 @@
     + Hỗ trợ người dùng xuất dữ liệu và vẽ đồ thị hoạt động của Robot theo thời gian thực
 - Giao tiếp với Camera nhận diện vật thể qua giao thức TCP/IP, hoàn thiện một chu trình hoạt động khép kín trong dây chuyền công nghiệp
 
-[![Industrial Robot Simulation](https://youtu.be/XsljXHS5S4A/0.jpg)](https://youtu.be/XsljXHS5S4A)
+[![Industrial Robot Simulation](Industrial Robot Simulation.gif)](https://youtu.be/XsljXHS5S4A)
 
 
  
