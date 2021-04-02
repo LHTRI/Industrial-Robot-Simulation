@@ -7,7 +7,7 @@
 
 [![Industrial Robot Simulation](https://github.com/LHTRI/Industrial-Robot-Simulation/blob/main/Industrial%20Robot%20Simulation.gif)](https://youtu.be/XsljXHS5S4A)
 
-## Thông tin miêu tả chi tiết các tính năng xin vui lòng truy cập [![Slide](https://github.com/LHTRI/Industrial-Robot-Simulation/blob/main/Introduction%20to%20Robot%20Simulation%20-LeHuuTri_%202021.pptx)]
+### Thông tin miêu tả chi tiết các tính năng xin vui lòng truy cập [![Slide](https://github.com/LHTRI/Industrial-Robot-Simulation/blob/main/Introduction%20to%20Robot%20Simulation%20-LeHuuTri_%202021.pptx)]
 
 Link youtube:
 [![Industrial Robot Simulation](https://youtu.be/XsljXHS5S4A)](https://youtu.be/XsljXHS5S4A)
