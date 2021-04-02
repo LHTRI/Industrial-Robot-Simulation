@@ -6,6 +6,8 @@
 - Giao tiếp với Camera nhận diện vật thể qua giao thức TCP/IP, hoàn thiện một chu trình hoạt động khép kín trong dây chuyền công nghiệp
 
 [![Industrial Robot Simulation](https://github.com/LHTRI/Industrial-Robot-Simulation/blob/main/Industrial%20Robot%20Simulation.gif)](https://youtu.be/XsljXHS5S4A)
+
+Link youtube:
 [![Industrial Robot Simulation](https://youtu.be/XsljXHS5S4A)](https://youtu.be/XsljXHS5S4A)
 
 
